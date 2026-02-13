@@ -1,0 +1,5 @@
+{
+  "name": "Oikonomia v1",
+  "description": "Sistema de gestão financeira para igrejas com importação OFX, relatórios gerenciais e controle de orçamento.",
+  "requestFramePermissions": []
+}
